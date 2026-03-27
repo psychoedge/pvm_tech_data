@@ -1,0 +1,674 @@
+{
+  "structure": {
+    "medals": [
+      {
+        "name": "Intermediate",
+        "icon": "\uF111",
+        "colour": "488"
+      },
+      {
+        "name": "Challenger",
+        "icon": "\uF111",
+        "colour": "136"
+      },
+      {
+        "name": "Player",
+        "icon": "\uF111",
+        "colour": "BBB"
+      },
+      {
+        "name": "Alien",
+        "icon": "\uF111",
+        "colour": "EC3"
+      },
+      {
+        "name": "Alien\u002B\u002B",
+        "icon": "\uF05B",
+        "colour": "FC4"
+      }
+    ],
+    "id": 1
+  },
+  "maps": [
+    {
+      "uid": "VGCJLmPUhilX5QZbIkuPRfSrq5c",
+      "tmx_id": 23885,
+      "name": "Minilife 01",
+      "author": "Naitsiro",
+      "mod": "",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "E",
+        "times": [
+          16450,
+          16110,
+          15858
+        ]
+      }
+    },
+    {
+      "uid": "5SHkUgtuJwXi4pFIUWWlSbs6jyi",
+      "tmx_id": 258923,
+      "name": "The Weeklies - Lavanil",
+      "author": "Jitsky",
+      "mod": "",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "E",
+        "times": [
+          19655,
+          20463,
+          20072
+        ]
+      }
+    },
+    {
+      "uid": "0O4a1V5BJPPgKPQS0N_jSWOADP8",
+      "tmx_id": 265656,
+      "name": "shortechv2",
+      "author": "panth_tm",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "E",
+        "times": [
+          24683,
+          24139,
+          23522
+        ]
+      }
+    },
+    {
+      "uid": "ZfzlVBRpECHQNdXA8NbxaalfwJg",
+      "tmx_id": 216316,
+      "name": "Diegetic",
+      "author": "Kcedus.4PF",
+      "mod": "",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "E",
+        "times": [
+          46265,
+          45581,
+          44941
+        ]
+      }
+    },
+    {
+      "uid": "oBNcrfwhHCzU1WtpltvvAWnMpU8",
+      "tmx_id": 197074,
+      "name": "cereza",
+      "author": "Viiper..",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "E",
+        "times": [
+          41763,
+          41155,
+          40588
+        ]
+      }
+    },
+    {
+      "uid": "NQXBH2FlZk_PtVvclFxCkOPs_Ij",
+      "tmx_id": 61955,
+      "name": "Supercharger",
+      "author": "map.gbx",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "D",
+        "times": [
+          32912,
+          32289,
+          31735
+        ]
+      }
+    },
+    {
+      "uid": "RYdFWnMp72SDgjXPe3wkL3yczj6",
+      "tmx_id": 63779,
+      "name": "r a i n d r o p s",
+      "author": "linkTM_",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "D",
+        "times": [
+          40796,
+          40134,
+          41484
+        ]
+      }
+    },
+    {
+      "uid": "g6Ujm2Iq5BKKOO8p7H8y5SKQSrd",
+      "tmx_id": 202184,
+      "name": "Red Emperor",
+      "author": "Laku27",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "D",
+        "times": [
+          42882,
+          42307,
+          41643
+        ]
+      }
+    },
+    {
+      "uid": "e0qr2YJSStlibhlvoPfwu474ge7",
+      "tmx_id": 122298,
+      "name": "Pako",
+      "author": "Kola-.-",
+      "mod": "",
+      "difficulty": 0,
+      "pvm": {
+        "grade": "D",
+        "times": [
+          23516,
+          24663,
+          24060
+        ]
+      }
+    },
+    {
+      "uid": "Ro9a9itR9mimdsShJguk7FY9uM2",
+      "tmx_id": 77049,
+      "name": "Tech Mini 2",
+      "author": "JesPe__",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "D",
+        "times": [
+          20513,
+          20159,
+          19711
+        ]
+      }
+    },
+    {
+      "uid": "bnEWDbBSZ6P1NZz8hCa8cbp5aV8",
+      "tmx_id": 283275,
+      "name": "NOWAY ft Zepna",
+      "author": "Thounej",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "D",
+        "times": [
+          45392,
+          44192,
+          46009
+        ]
+      }
+    },
+    {
+      "uid": "nfZgfbUljapGBAynvf7wn2ARWs6",
+      "tmx_id": 263071,
+      "name": "Conscious",
+      "author": "Taco.TM",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "C",
+        "times": [
+          39322,
+          38725,
+          38020
+        ]
+      }
+    },
+    {
+      "uid": "qvI_2DuaDaOi2D7nMUL411Gft81",
+      "tmx_id": 151154,
+      "name": "WTT - Cupid ft' Linh",
+      "author": "Loso-",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "C",
+        "times": [
+          44159,
+          43478,
+          44678
+        ]
+      }
+    },
+    {
+      "uid": "4mvtOe3W1zbIdqeQ_r9_GM0RoQ8",
+      "tmx_id": 120202,
+      "name": "Skylight",
+      "author": "Nikolech",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "C",
+        "times": [
+          46854,
+          46213,
+          47417
+        ]
+      }
+    },
+    {
+      "uid": "biOHFzRIKMLnqyYtSYq3uqFK1xg",
+      "tmx_id": 124146,
+      "name": "Black & White",
+      "author": "Roquete",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "C",
+        "times": [
+          49303,
+          48851,
+          48125
+        ]
+      }
+    },
+    {
+      "uid": "ikTS8DzOHNfPzm2UsEaXKkbjq3j",
+      "tmx_id": 288777,
+      "name": "Kiwifruit #5",
+      "author": "kiwi.4w",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "C",
+        "times": [
+          23631,
+          23200,
+          22830
+        ]
+      }
+    },
+    {
+      "uid": "nuxn3Pq4gOJDXi0PH2r_78v_wzd",
+      "tmx_id": 209410,
+      "name": " Ephemeral",
+      "author": "jahbibbo-TM",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "B",
+        "times": [
+          45985,
+          47230,
+          46778
+        ]
+      }
+    },
+    {
+      "uid": "19OUQuJDZGVIUmcDUanI633i8sf",
+      "tmx_id": 127769,
+      "name": "WTT - Cacturne",
+      "author": "Mephisto.wp",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "B",
+        "times": [
+          51861,
+          51333,
+          50515
+        ]
+      }
+    },
+    {
+      "uid": "Ue5vywTkfk7_hPSaO3rLQ2dShPj",
+      "tmx_id": 267706,
+      "name": "Taco Mini Tech 10",
+      "author": "Taco.TM",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "B",
+        "times": [
+          18824,
+          18465,
+          18161
+        ]
+      }
+    },
+    {
+      "uid": "x7aOvCGIpzHWu7ge_S3btXPGLtc",
+      "tmx_id": 284073,
+      "name": "TECHTECK#7",
+      "author": "aapril.",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "B",
+        "times": [
+          30047,
+          29533,
+          29092
+        ]
+      }
+    },
+    {
+      "uid": "xST8hU4_U0MxP_TS5Iqe_5JdBDe",
+      "tmx_id": 270115,
+      "name": "Cirrostrati",
+      "author": "JoshTalksToFish",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "B",
+        "times": [
+          42917,
+          42231,
+          41537
+        ]
+      }
+    },
+    {
+      "uid": "1uyhzBmpmFAmkmp6zJngHfRdd15",
+      "tmx_id": 250615,
+      "name": "WTT - Wednesday ft' Liang",
+      "author": "zzhou04",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "A",
+        "times": [
+          51992,
+          51454,
+          50705
+        ]
+      }
+    },
+    {
+      "uid": "nxU8fmHU7gSZKiWqwKwVKwY336a",
+      "tmx_id": 250223,
+      "name": "WTT - Lunara",
+      "author": "LiangTM",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "A",
+        "times": [
+          48125,
+          47635,
+          47058
+        ]
+      }
+    },
+    {
+      "uid": "iIeV07VjUNVq_cZ_POKqL3LBhh9",
+      "tmx_id": 37147,
+      "name": "﻿TMM-Beyond ft Skadi¬TC21",
+      "author": "Keissla",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "A",
+        "times": [
+          48145,
+          48803,
+          49341
+        ]
+      }
+    },
+    {
+      "uid": "p5cRn_VO3jByxE5K3XBZExkMsO3",
+      "tmx_id": 62453,
+      "name": "from CCB with love",
+      "author": "map.gbx",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "A",
+        "times": [
+          25005,
+          25865,
+          25431
+        ]
+      }
+    },
+    {
+      "uid": "BwkG9UUm8nQ5JMGex3N4aDauOkg",
+      "tmx_id": 263072,
+      "name": "Bumblebee",
+      "author": "Taco.TM",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "A",
+        "times": [
+          38582,
+          38176,
+          37582
+        ]
+      }
+    },
+    {
+      "uid": "i2S1wnhQ7IsigDHQ3vYgG_RRiV5",
+      "tmx_id": 109599,
+      "name": "[PRIDE] ace of clubs",
+      "author": "map.gbx",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          25524,
+          25245,
+          25911
+        ]
+      }
+    },
+    {
+      "uid": "t1vb1ijArLzK7VWZPAUP5kPwcq9",
+      "tmx_id": 244425,
+      "name": "RDS S3 - MegaloPolis",
+      "author": "Viiper..",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          45811,
+          45394,
+          44832
+        ]
+      }
+    },
+    {
+      "uid": "AzahdGVZg_A5Nd55qB5AH__jtRc",
+      "tmx_id": 245921,
+      "name": "WTT - bind ft whiskey",
+      "author": "tryhardnubs",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          47651,
+          47158,
+          48237
+        ]
+      }
+    },
+    {
+      "uid": "GN1E_rzKJ_hbsvikqmfE3HySC57",
+      "tmx_id": 244043,
+      "name": " WTT - Stendhal ft Roquete",
+      "author": "LeroyTM",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          50455,
+          50861,
+          49792
+        ]
+      }
+    },
+    {
+      "uid": "K21o6l5UWWCpoSOBDO2dCOCbya7",
+      "tmx_id": 46998,
+      "name": "﻿CPS - Hauvistö ft hauv",
+      "author": "Mephisto.wp",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "S",
+        "times": [
+          54991,
+          54551,
+          53798
+        ]
+      }
+    },
+    {
+      "uid": "EsFs5ttBM3XGmAWPYgCAW0Wu1e9",
+      "tmx_id": 270003,
+      "name": "PikapU",
+      "author": "Taco.TM",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "SS",
+        "times": [
+          35948,
+          35451,
+          34985
+        ]
+      }
+    },
+    {
+      "uid": "6PEH8MbUYe0ppZUKVxSYP_arPC5",
+      "tmx_id": 117325,
+      "name": "WTT - Aftermath",
+      "author": "Buzy..",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "SS",
+        "times": [
+          45569,
+          45064,
+          44512
+        ]
+      }
+    },
+    {
+      "uid": "GeU7lwe_yUB8ubtF5uIDNYid3g0",
+      "tmx_id": 74892,
+      "name": "TMM2022Feunard-S",
+      "author": "Mephisto.wp",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "SS",
+        "times": [
+          47612,
+          47181,
+          46778
+        ]
+      }
+    },
+    {
+      "uid": "zFho3zvDKJZCJAuyUwHiItaKBK",
+      "tmx_id": 18856,
+      "name": "CPS - Inevitable ft manox",
+      "author": "Keissla",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "SS",
+        "times": [
+          56635,
+          55864,
+          57265
+        ]
+      }
+    },
+    {
+      "uid": "PzP8vKY2esmCW0LjWbi8QB_Aks5",
+      "tmx_id": 18828,
+      "name": "CPS - Unfold ft Keissla",
+      "author": "Nevermundo",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "SS",
+        "times": [
+          67008,
+          66561,
+          65742
+        ]
+      }
+    },
+    {
+      "uid": "A3oG1y0_K4s9U3a1qP0dvRNx3hb",
+      "tmx_id": 18859,
+      "name": "CPS - Kaorine",
+      "author": "Mephisto.wp",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Mythic",
+        "times": [
+          54462,
+          55568,
+          55132
+        ]
+      }
+    },
+    {
+      "uid": "HJ6A5e5Lyos3tfzRGsJ3hbdRaq",
+      "tmx_id": 263936,
+      "name": "Cataplexy ft' n1x",
+      "author": "ft-rj",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Mythic",
+        "times": [
+          44815,
+          44384,
+          43918
+        ]
+      }
+    },
+    {
+      "uid": "i0mACAz3r39Vp3rlz8Ej9iAN1t4",
+      "tmx_id": 25959,
+      "name": "TCS3 -  Schwabibs",
+      "author": "Navi.wp",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Mythic",
+        "times": [
+          48211,
+          49006,
+          48714
+        ]
+      }
+    },
+    {
+      "uid": "YQQaOrg4CgKAVKDof1WHKeZfad4",
+      "tmx_id": 106340,
+      "name": "See you in June",
+      "author": "Whiskey..",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Mythic",
+        "times": [
+          41864,
+          41427,
+          41085
+        ]
+      }
+    }
+  ]
+}
