@@ -669,6 +669,742 @@
           41085
         ]
       }
+    },
+    {
+      "uid": "R_u_FGezNY8rfsBSzIZG9cyVtn5",
+      "tmx_id": 27829,
+      "name": "CST - Spring21'",
+      "author": "Aqlx.",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Mythic",
+        "times": [
+          51465,
+          51043,
+          50448
+        ]
+      }
+    },
+    {
+      "uid": "ZSzmvXWwu1p_VJgTSmzj6SlgTd6",
+      "tmx_id": 268984,
+      "name": "FREEDOM",
+      "author": "Funay31",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Astral",
+        "times": [
+          37674,
+          37244,
+          37002
+        ]
+      }
+    },
+    {
+      "uid": "t4M87anWUszlxaGN8xT2_J8kIG3",
+      "tmx_id": 112783,
+      "name": "KOTT - Tuxedo",
+      "author": "mime-",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Astral",
+        "times": [
+          43412,
+          42976,
+          42648
+        ]
+      }
+    },
+    {
+      "uid": "PriJe2BBdeTEexC8pmOuNuY5saj",
+      "tmx_id": 127464,
+      "name": "WTT - WaVe ft' mime",
+      "author": "speq.wp",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Astral",
+        "times": [
+          45624,
+          45214,
+          44850
+        ]
+      }
+    },
+    {
+      "uid": "9wYxm_qiv4n6Hnrt34NUn__GKz1",
+      "tmx_id": 4059,
+      "name": "ALM - Jadielle",
+      "author": "Mephisto.wp",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Astral",
+        "times": [
+          48761,
+          48365,
+          47935
+        ]
+      }
+    },
+    {
+      "uid": "oQTQUSr1EhqiFwWnHsl_zPf8yVa",
+      "tmx_id": 54569,
+      "name": "GA2022FE - Permafrost",
+      "author": "map.gbx",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Astral",
+        "times": [
+          58681,
+          58148,
+          57435
+        ]
+      }
+    },
+    {
+      "uid": "mLfRSMCkAUhygk6HfPXdlcROysh",
+      "tmx_id": 18532,
+      "name": "CPS - Tengalice",
+      "author": "Mephisto.wp",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Ascendant",
+        "times": [
+          57734,
+          57222,
+          56691
+        ]
+      }
+    },
+    {
+      "uid": "6aehtw_LpejKKfWyCjRGxYNYnUf",
+      "tmx_id": 24157,
+      "name": "TCS3 -  Cyanide ft Cilky",
+      "author": "Enysado",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Ascendant",
+        "times": [
+          52061,
+          51075,
+          51564
+        ]
+      }
+    },
+    {
+      "uid": "n1KqO6_aaWA6G1NRbsAwPPZuLxg",
+      "tmx_id": 270222,
+      "name": "Wishes",
+      "author": "donnelic",
+      "mod": "",
+      "difficulty": 3,
+      "pvm": {
+        "grade": "Ascendant",
+        "times": [
+          31964,
+          31704,
+          31391
+        ]
+      }
+    },
+    {
+      "uid": "zYX6sVafDRWR5Bnci7M0bg0yobg",
+      "tmx_id": 1129,
+      "name": "ALM - Fire",
+      "author": "Javzo",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Ascendant",
+        "times": [
+          41124,
+          40701,
+          40454
+        ]
+      }
+    },
+    {
+      "uid": "h9t6_EuHnGDEJ2X1yFPurkCSQym",
+      "tmx_id": 45852,
+      "name": "CPS - Vex ft' Nevermind",
+      "author": "Navi.wp",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Ascendant",
+        "times": [
+          61635,
+          62897,
+          62183
+        ]
+      }
+    },
+    {
+      "uid": "zXepXYrBx8zIBkRee_hT2nodXq6",
+      "tmx_id": 263069,
+      "name": "Southside",
+      "author": "Taco.TM",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Divine",
+        "times": [
+          37365,
+          38030,
+          37691
+        ]
+      }
+    },
+    {
+      "uid": "jWqBeHDjtLRIwe28JwCXLk2riT4",
+      "tmx_id": 74910,
+      "name": "TMM2022Ceramique-S",
+      "author": "cLM_",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Divine",
+        "times": [
+          43412,
+          43035,
+          42738
+        ]
+      }
+    },
+    {
+      "uid": "j5PfysQKi4AIP3e_uQwa49rpGn7",
+      "tmx_id": 260462,
+      "name": "Fractured Wings",
+      "author": "Taco.TM",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Divine",
+        "times": [
+          46036,
+          45694,
+          45338
+        ]
+      }
+    },
+    {
+      "uid": "dOHpBoDByIIA7EXQ6S_rolTVZLh",
+      "tmx_id": 47965,
+      "name": "CPS - Piltover",
+      "author": "cLM_",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Divine",
+        "times": [
+          58052,
+          57631,
+          57094
+        ]
+      }
+    },
+    {
+      "uid": "3ecxAsNd5oEXf7LsIHDjtKezF8k",
+      "tmx_id": 74369,
+      "name": "TMM2022Ethereal-L",
+      "author": "Nevermundo",
+      "mod": "",
+      "difficulty": 3,
+      "pvm": {
+        "grade": "Divine",
+        "times": [
+          64745,
+          64013,
+          63391
+        ]
+      }
+    },
+    {
+      "uid": "vdj3hGUPRKfSQnpsUz01XVD16Pj",
+      "tmx_id": 112330,
+      "name": "KOTT - Cold",
+      "author": "speq.wp",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Stratospheric",
+        "times": [
+          40588,
+          41214,
+          40881
+        ]
+      }
+    },
+    {
+      "uid": "wjpy5ZLk2E3YrBaumoh6q4vjrF",
+      "tmx_id": 36296,
+      "name": "﻿TMM-hsifyllems ft Insane¬TC21",
+      "author": "Nevermundo",
+      "mod": "",
+      "difficulty": 3,
+      "pvm": {
+        "grade": "Stratospheric",
+        "times": [
+          50621,
+          50315,
+          49878
+        ]
+      }
+    },
+    {
+      "uid": "exVITsskEcuP_60bQmoMkDeF6sd",
+      "tmx_id": 67079,
+      "name": "KOTT - Trust Fall",
+      "author": "Roxiie",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Stratospheric",
+        "times": [
+          44492,
+          44834,
+          45114
+        ]
+      }
+    },
+    {
+      "uid": "8JyXrDjkuSyDE9JKM84z9XbxVbg",
+      "tmx_id": 24900,
+      "name": "GA2021 - Royal Cheese",
+      "author": "Luoocky",
+      "mod": "",
+      "difficulty": 3,
+      "pvm": {
+        "grade": "Stratospheric",
+        "times": [
+          61355,
+          60725,
+          60185
+        ]
+      }
+    },
+    {
+      "uid": "xwPpPQLX3SLJYoZG9v05m1mdRUb",
+      "tmx_id": 18509,
+      "name": " CPS - Liquorice",
+      "author": "Qubies",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Stratospheric",
+        "times": [
+          55704,
+          55225,
+          56041
+        ]
+      }
+    },
+    {
+      "uid": "4FJuCBlSRIII009M8Sq_92R80R2",
+      "tmx_id": 47230,
+      "name": "CPS - Chimera",
+      "author": "tres1N",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Exoplanetary",
+        "times": [
+          56164,
+          55815,
+          55335
+        ]
+      }
+    },
+    {
+      "uid": "zAmrGTwLBo3fkVBfVzqSNMxAcq9",
+      "tmx_id": 37086,
+      "name": "﻿TMM-Phenomen¬TC21",
+      "author": "cLM_",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Exoplanetary",
+        "times": [
+          42153,
+          41861,
+          41645
+        ]
+      }
+    },
+    {
+      "uid": "7lNPojDytSm6EiSgoIrcWAfaiLc",
+      "tmx_id": 74782,
+      "name": "TMM2022Acheron-S ",
+      "author": "aZix.wp",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Exoplanetary",
+        "times": [
+          49454,
+          49157,
+          49783
+        ]
+      }
+    },
+    {
+      "uid": "MOy2PIEB2kBoiajjhDjNeIjVa3b",
+      "tmx_id": 47662,
+      "name": "CPS - Khezu",
+      "author": "Zengo.",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Exoplanetary",
+        "times": [
+          59578,
+          60485,
+          60015
+        ]
+      }
+    },
+    {
+      "uid": "vSQJGqtRSt0k1IJVkgs5HU8l0sj",
+      "tmx_id": 47761,
+      "name": "CPS - Zmey Gorynych",
+      "author": "Neurovski",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Exoplanetary",
+        "times": [
+          65630,
+          64947,
+          64318
+        ]
+      }
+    },
+    {
+      "uid": "Hx5_38yCAFdHvkP8AJN5vKENoKd",
+      "tmx_id": 27816,
+      "name": "CST - Crazy Diamond ft' Paynn",
+      "author": "slays_tm",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Cosmic",
+        "times": [
+          55404,
+          54931,
+          54592
+        ]
+      }
+    },
+    {
+      "uid": "S_pcfBN4LAiSYJLkjx28qKiFjAg",
+      "tmx_id": 24973,
+      "name": "GA2021 - Humble Forest",
+      "author": "cLM_",
+      "mod": "",
+      "difficulty": 3,
+      "pvm": {
+        "grade": "Cosmic",
+        "times": [
+          62144,
+          61315,
+          60752
+        ]
+      }
+    },
+    {
+      "uid": "ew1XFYLyQqsVUngykvTKZCk6gDb",
+      "tmx_id": 169915,
+      "name": "MTSLuxray-M",
+      "author": "Mephisto.wp",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Cosmic",
+        "times": [
+          61098,
+          62550,
+          61677
+        ]
+      }
+    },
+    {
+      "uid": "3lKcBgUfuOy3r0oXXQjZt0DXAii",
+      "tmx_id": 27298,
+      "name": "CST - Halcyon",
+      "author": "Nevermundo",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Cosmic",
+        "times": [
+          47684,
+          47313,
+          47102
+        ]
+      }
+    },
+    {
+      "uid": "kACUG2R360g_CqDufMiHsGr02dh",
+      "tmx_id": 17657,
+      "name": "CPS - BugPlanet",
+      "author": "Roquete",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Cosmic",
+        "times": [
+          52453,
+          52152,
+          52834
+        ]
+      }
+    },
+    {
+      "uid": "79Rt0F9RyMXlm_JoVjXxtFAVAla",
+      "tmx_id": 150816,
+      "name": "WTT - Lemon Cello",
+      "author": "Neurovski",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Supernovae",
+        "times": [
+          51091,
+          50721,
+          50458
+        ]
+      }
+    },
+    {
+      "uid": "RTJELca_KWfDJfGgLfn_RgOscP4",
+      "tmx_id": 47848,
+      "name": "CPS - HardDance",
+      "author": "Roxiie",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Supernovae",
+        "times": [
+          55776,
+          55257,
+          54911
+        ]
+      }
+    },
+    {
+      "uid": "lxdt8MBaj28t4sJy7Kt0CbZvZ4n",
+      "tmx_id": 151153,
+      "name": "WTT - Zapping",
+      "author": "That_Ski_Freak",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Supernovae",
+        "times": [
+          58016,
+          57423,
+          57054
+        ]
+      }
+    },
+    {
+      "uid": "8_gSSJ17ZymIyzmXXUnPVuCGqVj",
+      "tmx_id": 169073,
+      "name": "MTSZOKU-M",
+      "author": "LiangTM",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Supernovae",
+        "times": [
+          61069,
+          60230,
+          59707
+        ]
+      }
+    },
+    {
+      "uid": "X71P69SOG6TVT9BnP1TFiCwBafl",
+      "tmx_id": 74783,
+      "name": "TMM2022Acheron-L",
+      "author": "aZix.wp",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Supernovae",
+        "times": [
+          61537,
+          60808,
+          60405
+        ]
+      }
+    },
+    {
+      "uid": "4VPpTx75JR54_HquJswSmpagLhd",
+      "tmx_id": 40559,
+      "name": "GA2021HE- Spiritomb",
+      "author": "Mephisto.wp",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Black Hole",
+        "times": [
+          59024,
+          58355,
+          57952
+        ]
+      }
+    },
+    {
+      "uid": "dZ1v9Sz3n10wm33gXuo5B0cph9d",
+      "tmx_id": 213841,
+      "name": "MTSBlade-M",
+      "author": "tryhardnubs",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Black Hole",
+        "times": [
+          61807,
+          60938,
+          60445
+        ]
+      }
+    },
+    {
+      "uid": "iEQXCG06qhdtDc_0wSvjmIzWGee",
+      "tmx_id": 207498,
+      "name": "MTSFizion-L",
+      "author": "Neurovski",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Black Hole",
+        "times": [
+          74893,
+          74178,
+          75960
+        ]
+      }
+    },
+    {
+      "uid": "mKIhaMrlLtl2xSvki5e0XBIZIQ1",
+      "tmx_id": 25479,
+      "name": "TCS3 - Runaway",
+      "author": "cLM_",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Black Hole",
+        "times": [
+          53761,
+          53388,
+          54350
+        ]
+      }
+    },
+    {
+      "uid": "wkwfBBecgCZlBEPXO8xgVcOi6l2",
+      "tmx_id": 41173,
+      "name": "GA2021HE - Smooth Criminal",
+      "author": "Roxiie",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Black Hole",
+        "times": [
+          65662,
+          66944,
+          66145
+        ]
+      }
+    },
+    {
+      "uid": "19jtl3W7VhuoS8nunFvxAFIXqYf",
+      "tmx_id": 74909,
+      "name": "TMM2022Ceramique-L",
+      "author": "cLM_",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Interstellar",
+        "times": [
+          59614,
+          58926,
+          58502
+        ]
+      }
+    },
+    {
+      "uid": "gACknyPEy1_wZgfIkjnYbKjohrj",
+      "tmx_id": 41267,
+      "name": "GA2021HE - Surreh Milsap",
+      "author": "cLM_",
+      "mod": "",
+      "difficulty": 3,
+      "pvm": {
+        "grade": "Interstellar",
+        "times": [
+          59578,
+          59065,
+          60397
+        ]
+      }
+    },
+    {
+      "uid": "TvAvOBVBNqWrrgIzJgoiN7bYM6l",
+      "tmx_id": 268238,
+      "name": "exhausted",
+      "author": "aapril.",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Interstellar",
+        "times": [
+          43603,
+          43254,
+          42775
+        ]
+      }
+    },
+    {
+      "uid": "oEXGJjkbRYGPINoh5uCemoPi0_2",
+      "tmx_id": 24303,
+      "name": "TCS3 - Poppin'",
+      "author": "hauvtm",
+      "mod": "",
+      "difficulty": 1,
+      "pvm": {
+        "grade": "Interstellar",
+        "times": [
+          54928,
+          55710,
+          55290
+        ]
+      }
+    },
+    {
+      "uid": "54qWf2eMwJP2t1WR3S27qiTDR2j",
+      "tmx_id": 244044,
+      "name": "WTT -  Krottoku",
+      "author": "LeroyTM",
+      "mod": "",
+      "difficulty": 2,
+      "pvm": {
+        "grade": "Interstellar",
+        "times": [
+          49646,
+          49211,
+          48955
+        ]
+      }
     }
   ]
 }
