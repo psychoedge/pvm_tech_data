@@ -2,34 +2,34 @@
   "structure": {
     "medals": [
       {
-        "name": "Intermediate",
-        "symbol": "\uf10c",
-        "colour": "964"
+        "colour": "964",
+        "icon": "\uf10c",
+        "name": "Intermediate"
       },
       {
-        "name": "Challenger",
-        "symbol": "\uf111",
-        "colour": "778"
+        "colour": "778",
+        "icon": "\uf111",
+        "name": "Challenger"
       },
       {
-        "name": "Player",
-        "symbol": "\uf111",
-        "colour": "FC5"
+        "colour": "FC5",
+        "icon": "\uf111",
+        "name": "Player"
       },
       {
-        "name": "Advanced",
-        "symbol": "\uf05b",
-        "colour": "283"
+        "colour": "283",
+        "icon": "\uf05b",
+        "name": "Advanced"
       },
       {
-        "name": "Alien",
-        "symbol": "\ue966",
-        "colour": "28E"
+        "colour": "28E",
+        "icon": "\ue966",
+        "name": "Alien"
       },
       {
-        "name": "Alien\u002B\u002B",
-        "symbol": "\ue965",
-        "colour": "F57"
+        "colour": "F57",
+        "icon": "\ue965",
+        "name": "Alien++"
       }
     ],
     "id": 1
